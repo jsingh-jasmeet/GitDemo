@@ -1,5 +1,11 @@
 public class HelloWorld {
 
+	private myMethod(){
+
+		System.out.println("Hello again!");
+	}
+
+
 	public static void main(String args[]) {
 
     		System.out.println("Hello World! Welcome to Persistent");
