@@ -9,6 +9,7 @@ public class HelloWorld {
 	public static void main(String args[]) {
 
     		System.out.println("Hello World! Welcome to Persistent");
+		System.out.println("THIS CHANGE IS FOR GITHUB PUSH TEST");
 
 	}
 
