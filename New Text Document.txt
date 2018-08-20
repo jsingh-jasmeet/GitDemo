@@ -2,7 +2,7 @@ public class HelloWorld {
 
 	private myMethod(){
 
-		System.out.println("Hello again!");
+		System.out.println("Hello again! CHANGED");
 	}
 
 
